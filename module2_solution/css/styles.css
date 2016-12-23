@@ -1,1 +1,44 @@
 
+#p1{
+	background-color:gray;
+	width = 33%;
+	margin-right
+}
+#p2{
+	background-color:gray;
+	width = 33%;
+	float:right;
+}
+#p3{
+	background-color:gray;
+	width = 33%;
+	float:right;
+}
+@media (min-width: 768 and max-width: 991){
+#p1{
+	background-color:gray;
+	width = 50%;
+}
+#p2{
+	background-color:gray;
+	width = 50%;
+}
+#p3{
+	clear:left;
+	background-color:gray;
+}
+}
+@media (max-width: 767){
+#p1{
+	background-color:gray;
+	clear:left;
+}
+#p2{
+	background-color:gray;
+	clear:left;
+}
+#p3{
+	background-color:gray;
+	clear:left;
+}
+}
