@@ -16,11 +16,11 @@ section{
 }
 #chicken, #beef, #sushi{
 	border:1px solid black;
-	height:30px;
+	height:40px;
 	width:100px;
 	text-align:center;
 	padding-top:20px;
-	padding-bottom:20px;
+	padding-bottom:10px;
 	float:right;
 }
 #chicken{
