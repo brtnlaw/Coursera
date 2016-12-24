@@ -16,17 +16,23 @@ section{
 }
 #chicken{
 	border:1px solid black;
-	float:left;
+	height:20px;
+	width:50px;
+	float:right;
 	background-color:red;
 }
 #beef{
 	border:1px solid black;
-	float:left;
+	height:20px;
+	width:50px;
+	float:right;
 	background-color:green;
 }
 #sushi{
 	border:1px solid black;
-	float:left;
+	height:20px;
+	width:50px;
+	float:right;
 	background-color:blue;
 }
 @media (min-width: 768 and max-width: 991){
