@@ -33,19 +33,20 @@ section{
 }
 @media (min-width: 768px) and (max-width: 991px){
 #p1{
-	width: 50%;
+	width: (50% - 24px);
 }
 #p2{
 	float:left;
-	width: 50%;
+	width: (50% - 24px);
 }
 #p3{
 	clear:left;
+	width:(100%-24px);
 }
 }
 @media (max-width: 767px){
 #p1, #p2, #p3{
-	width: 100%;
+	width: (100%-24px);
 	clear:left;
 }
 }
