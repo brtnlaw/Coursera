@@ -12,16 +12,19 @@ div{
 	float:left;
 }
 #chicken{
+	border:1px solid black;
 	float:left;
 	background-color:red;
 	clear:left;
 }
 #beef{
+	border:1px solid black;
 	float:left;
 	background-color:green;
 	clear:left;
 }
 #sushi{
+	border:1px solid black;
 	float:left;
 	background-color:blue;
 	clear:left;
