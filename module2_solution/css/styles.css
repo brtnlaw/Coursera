@@ -17,25 +17,19 @@ section{
 #p1, #p2, #p3{
 	float:left;
 }
-#chicken{
+#chicken, #beef, #sushi{
 	border:1px solid black;
-	height:20px;
-	width:50px;
+	height:40px;
+	width:100px;
 	float:right;
+}
+#chicken{
 	background-color:red;
 }
 #beef{
-	border:1px solid black;
-	height:20px;
-	width:50px;
-	float:right;
 	background-color:green;
 }
 #sushi{
-	border:1px solid black;
-	height:20px;
-	width:50px;
-	float:right;
 	background-color:blue;
 }
 @media (min-width: 768 and max-width: 991){
@@ -51,13 +45,7 @@ section{
 }
 }
 @media (max-width: 767){
-#p1{
-	clear:left;
-}
-#p2{
-	clear:left;
-}
-#p3{
+#p1, #p2, #p3{
 	clear:left;
 }
 }
