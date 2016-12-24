@@ -1,6 +1,9 @@
 h1{
 	text-align:center;
 }
+div{
+	height = 20%;
+}
 #p1{
 	background-color:gray;
 	width = 33%;
