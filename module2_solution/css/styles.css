@@ -11,6 +11,7 @@ section{
 #p1, #p2, #p3{
 	background-color:gray;
 	width: 33.3%;
+	margin-left: 20px;
 }
 #p2, #p3{
 	float:left;
