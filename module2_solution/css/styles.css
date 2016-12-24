@@ -11,15 +11,15 @@ div{
 #p2{
 	background-color:gray;
 	width = 33%;
-	float:right;
+	float:left;
 }
 #p3{
 	background-color:gray;
 	width = 33%;
-	float:right;
+	float:left;
 }
 #chicken{
-	float:right;
+	float:left;
 	background-color:;
 }
 @media (min-width: 768 and max-width: 991){
