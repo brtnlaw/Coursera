@@ -45,6 +45,7 @@ section{
 }
 @media (max-width: 767px){
 #p1, #p2, #p3{
+	width: 100%;
 	clear:left;
 }
 }
