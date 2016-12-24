@@ -34,11 +34,11 @@ section{
 }
 @media (min-width: 768 and max-width: 991){
 #p1{
-	width: calc(50% - 20px);
+	width: 50%;
 }
 #p2{
 	float:left;
-	width: calc(50% - 20px);
+	width: 50%;
 }
 #p3{
 	clear:left;
