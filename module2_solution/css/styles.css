@@ -31,7 +31,7 @@ section{
 #sushi{
 	background-color:cyan;
 }
-@media (min-width: 768px and max-width: 991px){
+@media (min-width: 768px max-width: 991px){
 #p1{
 	width: 50%;
 }
