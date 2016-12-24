@@ -41,7 +41,7 @@ section{
 }
 #p3{
 	clear:left;
-	width:100%;
+	width:calc(100%-24px);
 }
 }
 @media (max-width: 767px){
