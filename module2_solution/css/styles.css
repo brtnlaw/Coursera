@@ -4,6 +4,7 @@ h1{
 div{
 	height: 300px;
 	margin-top:50px;
+	padding:10px;
 }
 section{
 	clear: right;
